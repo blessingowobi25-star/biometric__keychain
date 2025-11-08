@@ -30,6 +30,11 @@ Users already rely on biometrics but lack transparency and control. Biometric Ke
 🛠️ Standards: WebAuthn / FIDO2 patterns
 🔐 Demo stack: React (frontend) + Node.js (backend demo)
 
+ 💻  On-device: Secure Enclave (iOS) / Android Keystore
+ 🛠️  Standards: WebAuthn / FIDO2 patterns
+
+
+
 
 
 

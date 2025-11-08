@@ -40,3 +40,7 @@ Biometric Keychain is a device-native credential manager and lightweight SDK for
 git clone https://github.com/blessingowobi25-star/biometric__keychain.git
 cd biometric__keychain
 # Add demo server and SDK later
+---
+
+🧠 **Stage 4A Scope:** Documentation + technical scaffold only.  
+⚙️ Production build will include biometric attestation & secure recovery layers.

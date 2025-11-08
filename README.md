@@ -36,4 +36,8 @@ Users already rely on biometrics but lack transparency and control. Biometric Ke
 3. Add illustrations to `/docs` and push
 
 ## Contact
-Built by Blessing Owobi — this project was created for HNG Stage 4A.
+---
+
+⭐ **HNG Stage 4A Submission**  
+Built with ❤️ by **Blessing Owobi**  
+📅 November 2025
